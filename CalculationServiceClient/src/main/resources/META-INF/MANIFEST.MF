@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-Name: CalculationServiceClient
+Bundle-Activator: com.sshelomentsev.service.CalculationServiceClient.Activator
+Bundle-SymbolicName: CalculationServiceClient
+Bundle-Version: 1.0.0
+Import-Package: org.osgi.framework,
+    com.sshelomentsev.service.CalculationService;version=1.0.0,
+    com.sshelomentsev.service.SimpleLogger;version=1.0.0
+

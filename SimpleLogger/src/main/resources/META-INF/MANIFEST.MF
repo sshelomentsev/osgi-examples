@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-Name: SimpleLogger
+Bundle-Activator: com.sshelomentsev.service.SimpleLogger.Activator
+Bundle-SymbolicName: SimpleLogger
+Bundle-Version: 1.0.0
+Import-Package: org.osgi.framework
+Export-Package: com.sshelomentsev.service.SimpleLogger;version=1.0.0
